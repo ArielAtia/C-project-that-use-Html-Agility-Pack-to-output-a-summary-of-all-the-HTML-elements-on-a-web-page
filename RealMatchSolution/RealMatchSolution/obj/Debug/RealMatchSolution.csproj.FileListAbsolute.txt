@@ -1,0 +1,9 @@
+c:\users\ariel\documents\visual studio 2015\Projects\RealMatchSolution\RealMatchSolution\bin\Debug\RealMatchSolution.exe.config
+c:\users\ariel\documents\visual studio 2015\Projects\RealMatchSolution\RealMatchSolution\bin\Debug\RealMatchSolution.exe
+c:\users\ariel\documents\visual studio 2015\Projects\RealMatchSolution\RealMatchSolution\bin\Debug\RealMatchSolution.pdb
+c:\users\ariel\documents\visual studio 2015\Projects\RealMatchSolution\RealMatchSolution\bin\Debug\HtmlAgilityPack.dll
+c:\users\ariel\documents\visual studio 2015\Projects\RealMatchSolution\RealMatchSolution\bin\Debug\HtmlAgilityPack.pdb
+c:\users\ariel\documents\visual studio 2015\Projects\RealMatchSolution\RealMatchSolution\bin\Debug\HtmlAgilityPack.xml
+c:\users\ariel\documents\visual studio 2015\Projects\RealMatchSolution\RealMatchSolution\obj\Debug\RealMatchSolution.csprojResolveAssemblyReference.cache
+c:\users\ariel\documents\visual studio 2015\Projects\RealMatchSolution\RealMatchSolution\obj\Debug\RealMatchSolution.exe
+c:\users\ariel\documents\visual studio 2015\Projects\RealMatchSolution\RealMatchSolution\obj\Debug\RealMatchSolution.pdb
